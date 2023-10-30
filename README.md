@@ -46,10 +46,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-   git clone https://github.com/your-username/book-crud-backend.git
+   git clone https://github.com/Kavitadsharma/Brewsapp.git
 2. **Navigate to the Project Directory**:
     ```bash
-       cd book-crud-backend
+       cd Brewsapp
 3. **Install Dependencies**:
      ```bash
        npm install
